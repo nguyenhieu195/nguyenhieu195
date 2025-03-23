@@ -6,7 +6,7 @@
 💻 I'm into web development, always eager to learn new things and make cool stuff online.  
 🎓 Currently, I am a student majoring in **Software Technology** - International School - **Duy Tan University**.  
 🤝 I am ready to cooperate in any project that needs more support!  
-📫 You can reach me via **[Facebook](https://www.facebook.com/ngvahieu0)**  
+📫 You can reach me via **[facebook](https://www.facebook.com/ngvahieu0)**  
 ⚡ Pronouns: **He/Him**  
 ✨ Fun fact: **Nothing**  
 
@@ -14,9 +14,9 @@
 
 ## Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ngyahieu0)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhieu195208@gmail.com)
+[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ngvahieu0)
+[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ngvahieu/)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhieu1952005@gmail.com)
 
 
 ---
