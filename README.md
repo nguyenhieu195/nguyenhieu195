@@ -14,10 +14,10 @@
 
 ## Socials:
 
-[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ngvahieu0)
-[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ngvahieu/)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhieu1952005@gmail.com)
+<p align="center">
+<a href="https://facebook.com/ngvahieu0" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2" style="vertical-align:center" /></a><a href="https://instagram.com/ngvahieu" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://www.youtube.com/@HieuNguyen-jm8ky" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=FF0000" style="vertical-align:center" /></a><a href="mailto:nguyenhieu1952005@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=E91E63" style="vertical-align:center" /></a><a href="https://www.tiktok.com/@ngvahieu" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF" style="vertical-align:center" /></a>
 
+</p>  
 
 ---
 
