@@ -23,9 +23,19 @@
 
 ## 👑 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenhieu195&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=nguyenhieu195&theme=dark&hide_border=false)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhieu195&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+   <a href="https://github.com/nguyenhieu195" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=nguyenhieu195&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&title_color=ffffff&text_color=dddddd&icon_color=ffcc00" width="360"/>
+   </a>
+   <a href="https://github.com/nguyenhieu195" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieu195&theme=tokyonight&hide_border=true&fire=ff8c00&ring=ffffff&sideNums=ffffff&currStreakLabel=ffffff" width="395"/>
+   </a>
+   <a href="https://github.com/nguyenhieu195" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhieu195&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ffffff&text_color=dddddd" width="290"/>
+   </a>
+</p>
+
+
 ---
 
 ## Tech Stack:
