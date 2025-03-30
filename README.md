@@ -24,17 +24,17 @@
 
 <div align="center">
   <a href="https://github.com/nguyenhieu195" target="_blank">
-    <img height="130em"
+    <img height="100em"
       src="https://github-readme-stats.vercel.app/api?username=nguyenhieu195&theme=default&hide_border=false&include_all_commits=false&count_private=false&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF"
     />
   </a>
   <a href="https://github.com/nguyenhieu195" target="_blank">
-    <img height="130em"
+    <img height="100em"
       src="https://streak-stats.demolab.com?user=nguyenhieu195&theme=default&hide_border=false&ring=000000&fire=FF4500&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&background=FFFFFF"
     />
   </a>
   <a href="https://github.com/nguyenhieu195" target="_blank">
-    <img height="130em"
+    <img height="100em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhieu195&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF"
     />
   </a>
