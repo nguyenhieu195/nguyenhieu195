@@ -6,7 +6,7 @@
 💻 I'm into web development, always eager to learn new things and make cool stuff online.  
 🎓 Currently, I am a student majoring in **Software Technology** - International School - **Duy Tan University**.  
 🤝 I am ready to cooperate in any project that needs more support!  
-📫 You can reach me via **[facebook](https://www.facebook.com/ngvahieu0)**  
+📫 You can reach me via **[facebook](https://www.facebook.com/ngvahieu)**  
 ⚡ Pronouns: **He/Him**  
 ✨ Fun fact: **Nothing**  
 
