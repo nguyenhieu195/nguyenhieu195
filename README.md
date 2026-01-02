@@ -10,19 +10,47 @@
 ⚡ Pronouns: **He/Him**  
 ✨ Fun fact: **Nothing**  
 
----
+<p align="center"><a href="https://facebook.com/ngvahieu" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0c1116" />
+    <img alt="Facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&color=ffffff" />
+  </picture>
+</a><a href="https://instagram.com/ngvahieu" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0c1116" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&color=ffffff" />
+  </picture>
+</a><a href="https://www.youtube.com/@HieuNguyen-jm8ky" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&color=0c1116" />
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&color=ffffff" />
+  </picture>
+</a><a href="mailto:nguyenhieu1952005@gmail.com" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-35ab56?style=for-the-badge&logo=gmail&logoColor=35ab56&color=0c1116" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-35ab56?style=for-the-badge&logo=gmail&logoColor=35ab56&color=ffffff" />
+  </picture>
+</a><a href="https://www.tiktok.com/@ngvahieu" target="_blank">
+  <picture>
+  <!-- Dark mode: Nền đen, chữ trắng -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://img.shields.io/badge/TikTok-C42726?style=for-the-badge&logo=tiktok&logoColor=ffffff&color=0c1116" 
+  />
+  <!-- Light mode: Nền trắng, chữ đỏ (hoặc tùy chỉnh) -->
+  <img 
+    alt="TikTok" 
+    src="https://img.shields.io/badge/TikTok-C42726?style=for-the-badge&logo=tiktok&logoColor=0c1116&color=ffffff" 
+  />
+</picture>
+</a>
+</p>
 
-## Socials:
-
-<p align="center">
+<!-- <p align="center">
 <a href="https://facebook.com/ngvahieu" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2" style="vertical-align:center" /></a><a href="https://instagram.com/ngvahieu" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://www.youtube.com/@HieuNguyen-jm8ky" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=FF0000" style="vertical-align:center" /></a><a href="mailto:nguyenhieu1952005@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=E91E63" style="vertical-align:center" /></a><a href="https://www.tiktok.com/@ngvahieu" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF" style="vertical-align:center" /></a>
-</p>  
+</p>   -->
 
----
-
-## 👑 GitHub Stats:
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/nguyenhieu195" target="_blank">
     <img height="125em"
       src="https://github-readme-stats.vercel.app/api?username=nguyenhieu195&theme=default&hide_border=true&include_all_commits=false&count_private=false&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF"
@@ -38,11 +66,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhieu195&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF"
     />
   </a>
-</div>
-
----
-
-## Tech Stack:
+</div> -->
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -67,5 +91,3 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
