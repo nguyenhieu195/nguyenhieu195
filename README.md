@@ -27,7 +27,7 @@
   </picture>
 </a><a href="mailto:nguyenhieu1952005@gmail.com" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-bd001c?style=for-the-badge&logo=gmail&logoColor=35ab56&color=0c1116" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-bd001c?style=for-the-badge&logo=gmail&logoColor=bd001c&color=0c1116" />
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-bd001c?style=for-the-badge&logo=gmail&logoColor=bd001c&color=ffffff" />
   </picture>
 </a><a href="https://www.tiktok.com/@ngvahieu" target="_blank">
